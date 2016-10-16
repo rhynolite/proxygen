@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Run this script to (re)install proxygen and its dependencies (fbthrift
-## and folly). You must first compile all the dependencies before running this. This
+## and folly). You must first compile all the dependencies before running this. 
 ## Usually this is done by first running `deps.sh`.
 
 set -e
